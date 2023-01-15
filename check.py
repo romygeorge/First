@@ -1,4 +1,4 @@
-def sqrt(n):
+def sqrt(n):    # measure square root
     r = n*2
     return r
 
